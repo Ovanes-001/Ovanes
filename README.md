@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-LIGHTMODE-IMAGE](https://disk.yandex.ru/i/KCHUCubZGXsw2g)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://disk.yandex.ru/i/KCHUCubZGXsw2g)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 Привет, меня зовут Ованес, и я начинающий тестировщик!
 
 Я только начал свой путь в мире тестирования программного обеспечения, но моя страсть к обнаружению дефектов и улучшению качества продукта не знает границ. 
